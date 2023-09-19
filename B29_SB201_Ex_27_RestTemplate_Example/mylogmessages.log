@@ -1,0 +1,189 @@
+2023-11-16 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'2023-11-16 INFO Initializing Servlet 'dispatcherServlet'2023-11-16 INFO Completed initialization in 1 ms2023-11-16 ERROR This is log message for error level2023-11-16 WARN This is log message for warn level2023-11-16 INFO This is log message for info level2023-11-16 DEBUG This is log message for debug level2023-11-16 TRACE This is log message for trace level2023-11-16 INFO Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)2023-11-16 INFO Stopping service [Tomcat]2023-11-16 INFO Destroying Spring FrameworkServlet 'dispatcherServlet'2023-11-16 INFO Starting B29Sb201Ex26LoggingApplication using Java 17.0.5 with PID 7848 (C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_26_Logging_Example\target\classes started by Masai in C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_26_Logging_Example)2023-11-16 DEBUG Running with Spring Boot v3.1.3, Spring v6.0.112023-11-16 INFO No active profile set, falling back to 1 default profile: "default"2023-11-16 INFO Tomcat initialized with port(s): 8080 (http)2023-11-16 INFO Starting service [Tomcat]2023-11-16 INFO Starting Servlet engine: [Apache Tomcat/10.1.12]2023-11-16 INFO Initializing Spring embedded WebApplicationContext2023-11-16 INFO Root WebApplicationContext: initialization completed in 185 ms2023-11-16 INFO LiveReload server is running on port 357292023-11-16 INFO Tomcat started on port(s): 8080 (http) with context path ''2023-11-16 INFO Started B29Sb201Ex26LoggingApplication in 0.285 seconds (process running for 341.893)2023-11-16 INFO Condition evaluation unchanged2023-12-16 INFO Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)2023-12-16 INFO Stopping service [Tomcat]2023-12-16 INFO Starting B29Sb201Ex26LoggingApplication using Java 17.0.5 with PID 7848 (C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_26_Logging_Example\target\classes started by Masai in C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_26_Logging_Example)2023-12-16 DEBUG Running with Spring Boot v3.1.3, Spring v6.0.112023-12-16 INFO No active profile set, falling back to 1 default profile: "default"2023-12-16 INFO Tomcat initialized with port(s): 8080 (http)2023-12-16 INFO Starting service [Tomcat]2023-12-16 INFO Starting Servlet engine: [Apache Tomcat/10.1.12]2023-12-16 INFO Initializing Spring embedded WebApplicationContext2023-12-16 INFO Root WebApplicationContext: initialization completed in 143 ms2023-12-16 INFO LiveReload server is running on port 357292023-12-16 INFO Tomcat started on port(s): 8080 (http) with context path ''2023-12-16 INFO Started B29Sb201Ex26LoggingApplication in 0.232 seconds (process running for 350.702)2023-12-16 INFO Condition evaluation unchanged2023-12-16 INFO Application shutdown requested.2023-12-16 INFO Stopping service [Tomcat]2023-12-16 INFO Starting B29Sb201Ex26LoggingApplication using Java 17.0.5 with PID 9416 (C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_26_Logging_Example\target\classes started by Masai in C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_26_Logging_Example)2023-12-16 DEBUG Running with Spring Boot v3.1.3, Spring v6.0.112023-12-16 INFO No active profile set, falling back to 1 default profile: "default"2023-12-16 INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable2023-12-16 INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'2023-12-16 INFO Tomcat initialized with port(s): 8080 (http)2023-12-16 INFO Starting service [Tomcat]2023-12-16 INFO Starting Servlet engine: [Apache Tomcat/10.1.12]2023-12-16 INFO Initializing Spring embedded WebApplicationContext2023-12-16 INFO Root WebApplicationContext: initialization completed in 1439 ms2023-12-16 INFO LiveReload server is running on port 357292023-12-16 INFO Tomcat started on port(s): 8080 (http) with context path ''2023-12-16 INFO Started B29Sb201Ex26LoggingApplication in 2.581 seconds (process running for 3.469)2023-12-16 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'2023-12-16 INFO Initializing Servlet 'dispatcherServlet'2023-12-16 INFO Completed initialization in 1 ms2023-12-16 ERROR This is log message for error level2023-12-16 WARN This is log message for warn level2023-12-16 INFO This is log message for info level2023-12-16 DEBUG This is log message for debug level2023-12-16 TRACE This is log message for trace level2023-12-16 INFO Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)2023-12-16 INFO Stopping service [Tomcat]2023-12-16 INFO Destroying Spring FrameworkServlet 'dispatcherServlet'2023-12-16 INFO Starting B29Sb201Ex26LoggingApplication using Java 17.0.5 with PID 9416 (C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_26_Logging_Example\target\classes started by Masai in C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_26_Logging_Example)
+2023-12-16 DEBUG Running with Spring Boot v3.1.3, Spring v6.0.11
+2023-12-16 INFO No active profile set, falling back to 1 default profile: "default"
+2023-12-16 INFO Tomcat initialized with port(s): 8080 (http)
+2023-12-16 INFO Starting service [Tomcat]
+2023-12-16 INFO Starting Servlet engine: [Apache Tomcat/10.1.12]
+2023-12-16 INFO Initializing Spring embedded WebApplicationContext
+2023-12-16 INFO Root WebApplicationContext: initialization completed in 233 ms
+2023-12-16 INFO LiveReload server is running on port 35729
+2023-12-16 INFO Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-16 INFO Started B29Sb201Ex26LoggingApplication in 0.401 seconds (process running for 22.49)
+2023-12-16 INFO Condition evaluation unchanged
+2023-12-16 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-16 INFO Initializing Servlet 'dispatcherServlet'
+2023-12-16 INFO Completed initialization in 1 ms
+2023-12-16 ERROR This is log message for error level
+2023-12-16 WARN This is log message for warn level
+2023-12-16 INFO This is log message for info level
+2023-12-16 DEBUG This is log message for debug level
+2023-12-16 TRACE This is log message for trace level
+2023-13-16 INFO Application shutdown requested.
+2023-13-16 INFO Stopping service [Tomcat]
+2023-13-16 INFO Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-21-16 INFO Starting B29Sb201Ex26LoggingApplication using Java 17.0.5 with PID 7244 (C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_26_Logging_Example\target\classes started by Masai in C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_26_Logging_Example)
+2023-21-16 DEBUG Running with Spring Boot v3.1.3, Spring v6.0.11
+2023-21-16 INFO No active profile set, falling back to 1 default profile: "default"
+2023-21-16 INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-21-16 INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-21-16 INFO Tomcat initialized with port(s): 8080 (http)
+2023-21-16 INFO Starting service [Tomcat]
+2023-21-16 INFO Starting Servlet engine: [Apache Tomcat/10.1.12]
+2023-21-16 INFO Initializing Spring embedded WebApplicationContext
+2023-21-16 INFO Root WebApplicationContext: initialization completed in 1385 ms
+2023-21-16 INFO LiveReload server is running on port 35729
+2023-21-16 INFO Tomcat started on port(s): 8080 (http) with context path ''
+2023-21-16 INFO Started B29Sb201Ex26LoggingApplication in 2.54 seconds (process running for 3.434)
+2023-21-16 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-21-16 INFO Initializing Servlet 'dispatcherServlet'
+2023-21-16 INFO Completed initialization in 2 ms
+2023-21-16 ERROR This is log message for error level
+2023-21-16 WARN This is log message for warn level
+2023-21-16 INFO This is log message for info level
+2023-21-16 DEBUG This is log message for debug level
+2023-21-16 TRACE This is log message for trace level
+2023-22-16 INFO Application shutdown requested.
+2023-22-16 INFO Stopping service [Tomcat]
+2023-22-16 INFO Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-55-16 INFO Starting B29SB201Ex27RestTemplateExample using Java 17.0.5 with PID 14028 (C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_27_RestTemplate_Example\target\classes started by Masai in C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_27_RestTemplate_Example)
+2023-55-16 DEBUG Running with Spring Boot v3.1.3, Spring v6.0.11
+2023-55-16 INFO No active profile set, falling back to 1 default profile: "default"
+2023-55-16 INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-55-16 INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-55-16 WARN Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2023-55-16 INFO 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-55-16 ERROR 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'server.port' to java.lang.Integer:
+
+    Property: server.port
+    Value: "9090	#any value from 0 - 65535"
+    Origin: class path resource [application.properties] - 1:13
+    Reason: failed to convert java.lang.String to java.lang.Integer (caused by java.lang.NumberFormatException: For input string: "9090#anyvaluefrom0-65535")
+
+Action:
+
+Update your application's configuration
+
+2023-55-16 INFO Starting B29SB201Ex27RestTemplateExample using Java 17.0.5 with PID 10996 (C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_27_RestTemplate_Example\target\classes started by Masai in C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_27_RestTemplate_Example)
+2023-55-16 DEBUG Running with Spring Boot v3.1.3, Spring v6.0.11
+2023-55-16 INFO No active profile set, falling back to 1 default profile: "default"
+2023-55-16 INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-55-16 INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-55-16 INFO Tomcat initialized with port(s): 9090 (http)
+2023-55-16 INFO Starting service [Tomcat]
+2023-55-16 INFO Starting Servlet engine: [Apache Tomcat/10.1.12]
+2023-55-16 INFO Initializing Spring embedded WebApplicationContext
+2023-55-16 INFO Root WebApplicationContext: initialization completed in 1338 ms
+2023-55-16 WARN Unable to start LiveReload server
+2023-55-16 INFO Tomcat started on port(s): 9090 (http) with context path ''
+2023-55-16 INFO Started B29SB201Ex27RestTemplateExample in 2.465 seconds (process running for 3.372)
+2023-56-16 INFO Application shutdown requested.
+2023-56-16 INFO Stopping service [Tomcat]
+2023-57-16 INFO Starting B29SB201Ex27RestTemplateExample using Java 17.0.5 with PID 580 (C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_27_RestTemplate_Example\target\classes started by Masai in C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_27_RestTemplate_Example)
+2023-57-16 DEBUG Running with Spring Boot v3.1.3, Spring v6.0.11
+2023-57-16 INFO No active profile set, falling back to 1 default profile: "default"
+2023-57-16 INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-57-16 INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-57-16 INFO Tomcat initialized with port(s): 9090 (http)
+2023-57-16 INFO Starting service [Tomcat]
+2023-57-16 INFO Starting Servlet engine: [Apache Tomcat/10.1.12]
+2023-57-16 INFO Initializing Spring embedded WebApplicationContext
+2023-57-16 INFO Root WebApplicationContext: initialization completed in 1516 ms
+2023-57-16 WARN Unable to start LiveReload server
+2023-57-16 INFO Tomcat started on port(s): 9090 (http) with context path ''
+2023-57-16 INFO Started B29SB201Ex27RestTemplateExample in 2.812 seconds (process running for 3.849)
+2023-57-16 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-57-16 INFO Initializing Servlet 'dispatcherServlet'
+2023-57-16 INFO Completed initialization in 1 ms
+2023-58-16 ERROR Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.springframework.web.client.HttpClientErrorException$BadRequest: 400 : "{"timestamp":"2023-09-16T12:58:02.5795991","message":"No Student found with roll no 10","uri":"uri=/student/students/10"}"] with root cause
+org.springframework.web.client.HttpClientErrorException$BadRequest: 400 : "{"timestamp":"2023-09-16T12:58:02.5795991","message":"No Student found with roll no 10","uri":"uri=/student/students/10"}"
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:103)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:183)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:137)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:915)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:864)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:764)
+	at org.springframework.web.client.RestTemplate.getForEntity(RestTemplate.java:405)
+	at com.masaischool.controller.RestTemplateController.getStudentByRollNo(RestTemplateController.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1740)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-58-16 INFO Application shutdown requested.
+2023-58-16 INFO Stopping service [Tomcat]
+2023-58-16 INFO Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-01-16 INFO Starting B29SB201Ex27RestTemplateExample using Java 17.0.5 with PID 2464 (C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_27_RestTemplate_Example\target\classes started by Masai in C:\Users\Masai\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\B29_SB201_Ex_27_RestTemplate_Example)
+2023-01-16 DEBUG Running with Spring Boot v3.1.3, Spring v6.0.11
+2023-01-16 INFO No active profile set, falling back to 1 default profile: "default"
+2023-01-16 INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-01-16 INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-01-16 INFO Tomcat initialized with port(s): 9090 (http)
+2023-01-16 INFO Starting service [Tomcat]
+2023-01-16 INFO Starting Servlet engine: [Apache Tomcat/10.1.12]
+2023-01-16 INFO Initializing Spring embedded WebApplicationContext
+2023-01-16 INFO Root WebApplicationContext: initialization completed in 1387 ms
+2023-01-16 WARN Unable to start LiveReload server
+2023-01-16 INFO Tomcat started on port(s): 9090 (http) with context path ''
+2023-01-16 INFO Started B29SB201Ex27RestTemplateExample in 2.548 seconds (process running for 3.548)
+2023-02-16 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-16 INFO Initializing Servlet 'dispatcherServlet'
+2023-02-16 INFO Completed initialization in 1 ms
+2023-02-16 INFO Application shutdown requested.
+2023-02-16 INFO Stopping service [Tomcat]
+2023-02-16 INFO Destroying Spring FrameworkServlet 'dispatcherServlet'
