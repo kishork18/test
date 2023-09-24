@@ -18,9 +18,15 @@ public class SimpleController {
 	@GetMapping("/hello")
 	public ResponseEntity<String> hello(){
 		User user = (User)SecurityContextHolder.getContext().getAuthentication().getPrincipal();
-		System.out.println("Username: " + user.getUsername());
-		System.out.println("Password: " + user.getPassword());
+		System.out.println("Username = " + user.getUsername());
+		System.out.println("Password = " + user.getPassword());
 		return new ResponseEntity<String>("This is hello message by GET request", HttpStatus.OK);
 	}
 	//http://localhost:8080/hello
+	
+	@GetMapping("/hi")
+	public ResponseEntity<String> hi(){
+		return new ResponseEntity<String>("This is hi message by GET request", HttpStatus.OK);
+	}
+	//http://localhost:8080/hi
 }
